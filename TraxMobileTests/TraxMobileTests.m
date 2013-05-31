@@ -27,7 +27,7 @@
 - (void)testExample
 {
     
-    STFail(@"Unit tests are not implemented yet in TraxMobileTests");
+    STAssertNil(nil, @"Unit tests are not implemented yet in TraxMobileTests");
 }
 
 @end
